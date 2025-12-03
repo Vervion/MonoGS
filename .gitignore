@@ -10,7 +10,7 @@ diff_rasterization/dist
 cameras.json
 *.ply
 *.mp4
-datasets
+
 wandb
 
 result*
