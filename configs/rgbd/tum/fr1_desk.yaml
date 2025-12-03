@@ -1,7 +1,14 @@
 inherit_from: "configs/rgbd/tum/base_config.yaml"
 
+sequence_name: "rgbd_dataset_freiburg1_desk"
+rgb_file: "rgb.txt"
+depth_file: "depth.txt"
+groundtruth_file: "groundtruth.txt"
+associate_file: "associate.txt"
+
+
 Dataset:
-  dataset_path: "datasets/tum/rgbd_dataset_freiburg1_desk"
+  dataset_path: "/content/MonoGS/datasets/rgbd_dataset_freiburg1_desk"
   Calibration:
     fx: 517.306408
     fy: 516.469215
