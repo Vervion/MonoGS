@@ -1,4 +1,4 @@
-[comment]: <> (# Gaussian Splatting SLAM)
+[comment]: <> (# Gaussian Splatting SLAM with Graduated-Non-Convexity)
 
 <!-- PROJECT LOGO -->
 
