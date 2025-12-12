@@ -7,7 +7,7 @@
   <h1 align="center"> Gaussian Splatting SLAM with Graduated-Non-Convexity
   </h1>
   <p align="center">
-    <a href="[https://muskie82.github.io/](https://github.com/muskie82/MonoGS)"><strong>*Original Work</strong></a>
+    <a href="https://github.com/muskie82/MonoGS"><strong>*Original Work</strong></a>
 
 
 
