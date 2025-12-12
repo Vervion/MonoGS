@@ -7,15 +7,7 @@
   <h1 align="center"> Gaussian Splatting SLAM with Graduated-Non-Convexity
   </h1>
   <p align="center">
-    <a href="https://muskie82.github.io/"><strong>*Hidenobu Matsuki</strong></a>
-    ·
-    <a href="https://rmurai.co.uk/"><strong>*Riku Murai</strong></a>
-    ·
-    <a href="https://www.imperial.ac.uk/people/p.kelly/"><strong>Paul H.J. Kelly</strong></a>
-    ·
-    <a href="https://www.doc.ic.ac.uk/~ajd/"><strong>Andrew J. Davison</strong></a>
-  </p>
-  <p align="center">(* Equal Contribution)</p>
+    <a href="[https://muskie82.github.io/](https://github.com/muskie82/MonoGS)"><strong>*Original Work</strong></a>
 
 
 
